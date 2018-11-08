@@ -12,6 +12,7 @@ export const TOPICS = [
   'graphql',
   'ios',
   'javascript',
+  'leads',
   'php',
   'python',
   'ruby',

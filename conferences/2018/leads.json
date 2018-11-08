@@ -1,0 +1,36 @@
+[
+  {
+    "name": "The Lead Developer",
+    "url": "https://austin2018.theleaddeveloper.com",
+    "startDate": "2018-12-06",
+    "endDate": "2018-12-06",
+    "city": "Austin",
+    "country": "U.S.A.",
+    "twitter": "@theleaddev",
+    "cfpUrl": "https://austin2018.theleaddeveloper.com/cfp",
+    "cfpEndDate": "2018-08-03"
+  },
+  {
+    "name": "#LeadDev New York - The Lead Developer Conference",
+    "url": "https://newyork2018.theleaddeveloper.com",
+    "city": "New York City",
+    "country": "U.S.A.",
+    "startDate": "2018-04-24"
+  },
+  {
+    "name": "#LeadDev London - The Lead Developer Conference",
+    "url": "https://london2018.theleaddeveloper.com",
+    "city": "London",
+    "country": "U.K.",
+    "startDate": "2018-06-27",
+    "endDate": "2018-06-28"
+  },
+  {
+    "name": "Web Directions Leaders",
+    "url": "http://webdirections.org/leaders",
+    "startDate": "2018-08-01",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@webdirections"
+  }
+]
